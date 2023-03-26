@@ -8,8 +8,8 @@ public class OssTest {
     public static void main(String[] args) {
         // Endpoint以杭州为例，其它Region请按实际情况填写。
         String endpoint = "https://oss-cn-beijing.aliyuncs.com";
-        String accessKeyId = "LTAI5t5YfrsctNuY3L57kmbv";
-        String accessKeySecret = "waXmCugECzRoEQxbetmlw8xOVYdWZM";
+        String accessKeyId = "accesskeyId";
+        String accessKeySecret = "secret";
         String bucketName = "mygh-testoss";
 
         // 创建OSSClient实例。
